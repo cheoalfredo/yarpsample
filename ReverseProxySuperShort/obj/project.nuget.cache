@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jAOn/6TJQ9NIbscsD+0pZMtkggSUe4trm/P+iyC05RJUbISfW/v2FlnOjNqbz0/EKcb0cgvWc8nAOl3hR+CufQ==",
+  "success": true,
+  "projectFilePath": "D:\\articles\\yarp\\ReverseProxy\\ReverseProxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jose.fernandez\\.nuget\\packages\\microsoft.reverseproxy\\1.0.0-preview.9.21116.1\\microsoft.reverseproxy.1.0.0-preview.9.21116.1.nupkg.sha512"
+  ],
+  "logs": []
+}
